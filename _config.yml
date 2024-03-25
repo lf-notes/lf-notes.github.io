@@ -1,7 +1,7 @@
 title: LF Notes
 description: 
 google_analytics: 
-remote_theme: tewarid/midnight
+remote_theme: lf-notes/midnight
 defaults:
   - scope:
       path: "assets/img"
@@ -11,4 +11,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-remote-theme
-repository: tewarid/tewarid.github.io
+repository: lf-notes/lf-notes.github.io
